@@ -259,7 +259,8 @@ object {
 	width: 100%;
 	}
 .site-title {
-	margin: 0;
+	margin-bottom: 24;
+	margin-top: 0;
 	font-size: 48px;
 	font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
